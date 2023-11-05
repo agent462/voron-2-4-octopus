@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/pi/klipper_config
+cd /home/admin/printer_data/config
 
 case $1 in
 	status)
